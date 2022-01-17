@@ -1,0 +1,10 @@
+/* a margin and padding are provided 0 box-sizeing border box is used to include padding and border in the total width and height of the element, and font-family can be specified by the user */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Sans-serif';
+    
+}
+
+  
